@@ -2,6 +2,7 @@
 
 **Introducción a Inteligencia Artificial con poco código**
 
+Accede a los materiales aquí [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_LowCodeAI&file=VirtualSensorModel.mlx)
 
 Aprende cómo puedes aplicar técnicas de inteligencia artificial utilizando 
 herramientas interactivas en MATLAB. A través de demostraciones en vivo y 
